@@ -2,8 +2,3 @@ FoodieeDash is a simple and smart restaurant sales dashboard that helps restaura
 
 https://github.com/user-attachments/assets/c6e64256-2fe1-4fa0-bde9-503a4256d986
 
-ean and organized way.
-
-
-https://github.com/user-attachments/assets/b3da15dd-4395-455b-8766-a5d4e14d0403
-
