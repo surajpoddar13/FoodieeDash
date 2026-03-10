@@ -41,7 +41,7 @@ View sales trends through charts
 This helps restaurant owners understand their business performance quickly.
 
 # Project Structure
-# FoodieeDash
+FoodieeDash
 │
 ├── app.py                # Customer ordering interface
 ├── admin_dashboard.py    # Admin analytics dashboard
