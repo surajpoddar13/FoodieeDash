@@ -40,17 +40,6 @@ Identify popular menu items
 View sales trends through charts
 This helps restaurant owners understand their business performance quickly.
 
-# Project Structure
-FoodieeDash
-│
-├── app.py                # Customer ordering interface
-├── admin_dashboard.py    # Admin analytics dashboard
-├── rms.py                # Backend logic
-├── style.py              # UI styling
-├── orders_data.csv       # Stored order data
-├── requirements.txt      # Project dependencies
-└── README.md
-
 # How to Run the Project
 1. Clone the repository
 git clone https://github.com/surajpoddar13/FoodieeDash.git
